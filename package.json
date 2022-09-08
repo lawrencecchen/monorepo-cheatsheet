@@ -1,8 +1,7 @@
 {
   "name": "monorepo-cheatsheet",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -10,7 +9,7 @@
   },
   "keywords": [],
   "author": "Lawrence Chen",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "vitepress": "1.0.0-alpha.13",
     "vue": "^3.2.39"

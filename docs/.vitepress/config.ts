@@ -9,5 +9,9 @@ export default defineConfig({
         link: "https://github.com/lawrencecchen/monorepo-cheatsheet",
       },
     ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2022-present Lawrence Chen",
+    },
   },
 });
