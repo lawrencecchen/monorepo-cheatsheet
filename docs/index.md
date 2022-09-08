@@ -2,8 +2,9 @@
 
 Figuring out how to set up a monorepo with TypeScript is a pain. This is a cheatsheet to help you get started.
 
-- for web apps
--
+- web apps
+- internal packages
+- public npm packages
 
 ## Setup
 
