@@ -29,7 +29,7 @@ packages:
 ```json
 {
   ...
-  "name": "ui",
+  "name": "web",
   "dependencies": {
     "ui": "workspace:*"
   },
